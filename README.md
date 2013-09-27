@@ -5,12 +5,17 @@ Installs Komodo Editor
 
 Requirements
 ------------
-Supports Windows.
+Supports Windows and Ubuntu >= 12.04.
 
 Attributes
 ----------
 
-For Windows: 
+Ubuntu:
+
+* `default['komodo-edit']['package_name']` = Name of Ubuntu apackage. Defaults to `komodo-edit`
+
+
+Windows: 
 * `default['komodo-edit']['windows']['package_name']` =  Name of windows package. Defaults to `'Komodo Editor'`.
 * `default['komodo-edit']['windows']['url']` = URL to MSI package. Defaults to `'http://downloads.activestate.com/Komodo/releases/8.5.0/Komodo-Edit-8.5.0-13638.msi'`
 
