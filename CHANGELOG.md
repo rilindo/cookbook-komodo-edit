@@ -7,9 +7,12 @@ This file is used to list changes made in each version of the komodo-edit cookbo
 -----
 - [Rilindo Foster] - Initial release of komodo-edit
 
-0.1.1
+0.1.2
 -----
 - [Rilindo Foster] - Added Ubuntu support
+
+0.1.3
+- [Rilindo Foster] - Readme cleanup.
 - - -
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
 
