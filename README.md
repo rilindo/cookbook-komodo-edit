@@ -12,7 +12,7 @@ Attributes
 
 For Windows: 
 * `default['komodo-edit']['windows']['package_name']` =  Name of windows package. Defaults to `'Komodo Editor'`.
-* default['komodo-edit']['windows']['url'] = URL to MSI package. Defaults to `'http://downloads.activestate.com/Komodo/releases/8.5.0/Komodo-Edit-8.5.0-13638.msi'`
+* `default['komodo-edit']['windows']['url']` = URL to MSI package. Defaults to `'http://downloads.activestate.com/Komodo/releases/8.5.0/Komodo-Edit-8.5.0-13638.msi'`
 
 Usage
 -----

@@ -18,5 +18,5 @@
 #
 
 if platform?('windows')
-  include_recipe 'google-drive::windows'
+  include_recipe 'komodo-edit::windows'
 end
