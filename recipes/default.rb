@@ -19,4 +19,6 @@
 
 if platform?('windows')
   include_recipe 'komodo-edit::windows'
+elsif platform?('ubuntu')
+  include_recipe 'komodo-edit::ubuntu'
 end

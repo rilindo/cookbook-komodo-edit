@@ -16,6 +16,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+
+default['komodo-edit']['package_name'] = 'komodo-edit'
 default['komodo-edit']['windows']['package_name'] = 'Komodo Editor'
 default['komodo-edit']['windows']['url'] =
   'http://downloads.activestate.com/Komodo/releases/8.5.0/Komodo-Edit-8.5.0-13638.msi'

@@ -1,6 +1,6 @@
 #
 # Cookbook Name:: komodo-edit
-# Recipe:: default
+# Recipe:: windows
 #
 # Copyright 2013, Rilindo Foster <rilindo.foster@monzell.com
 #
